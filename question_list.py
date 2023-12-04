@@ -1,0 +1,22 @@
+questions_and_answers = [
+    {"question": "Is the Earth flat?", "answer": False},
+    {"question": "Is Python a programming language?", "answer": True},
+    {"question": "Is water wet?", "answer": True},
+    {"question": "Is the sky green?", "answer": False},
+    {"question": "Is 2 + 2 equal to 5?", "answer": False},
+    {"question": "Is the sun a star?", "answer": True},
+    {"question": "Is the moon made of cheese?", "answer": False},
+    {"question": "Is gravity a force?", "answer": True},
+    {"question": "Is 7 a prime number?", "answer": True},
+    {"question": "Is 'apple' a fruit?", "answer": True},
+    {"question": "Is the capital of France London?", "answer": False},
+    {"question": "Is the Pacific Ocean the largest ocean?", "answer": True},
+    {"question": "Is the Eiffel Tower located in Italy?", "answer": False},
+    {"question": "Is the mitochondria the powerhouse of the cell?", "answer": True},
+    {"question": "Is gold a gas at room temperature?", "answer": False},
+    {"question": "Is the Mona Lisa a painting?", "answer": True},
+    {"question": "Is 10 divided by 2 equal to 3?", "answer": False},
+    {"question": "Is the Great Wall of China visible from space?", "answer": False},
+    {"question": "Is Earth the third planet from the sun?", "answer": True},
+    {"question": "Is chocolate made from tomatoes?", "answer": False}
+]
